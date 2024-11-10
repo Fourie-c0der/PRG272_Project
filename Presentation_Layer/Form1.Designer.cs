@@ -141,7 +141,6 @@
             this.AdminBtn.Name = "AdminBtn";
             this.AdminBtn.Size = new System.Drawing.Size(646, 55);
             this.AdminBtn.TabIndex = 4;
-            this.AdminBtn.Text = "Admin Panel";
             this.AdminBtn.UseVisualStyleBackColor = false;
             // 
             // SIDLabel
